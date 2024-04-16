@@ -16,7 +16,7 @@ https://www.jetbrains.com/idea/download/
 2. Clone this repository using git:
 
 ```
-git clone git@github.com:roberthorgen/BingoJetpackComposeDesktop.git
+git clone git@github.com:agensdev/BingoJetpackCompose.git
 ```
 
 3. Open the project in IDEA, open the file named `Main.kt`
